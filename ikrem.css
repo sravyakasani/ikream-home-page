@@ -1,0 +1,73 @@
+
+  .nav-font-styling{
+    font-size: 15px;
+    font-family:cursive;
+    font-weight:bold;  
+  }
+  .nav-item1{
+    font-size: 15px;
+    font-family: cursive;
+    font-weight:bold;
+  }
+  .nav-item2{
+    font-size: 15px;
+    font-family: cursive;
+    font-weight:bold;
+  }
+  .nav-item3{
+    font-size: 15px;
+    font-family: cursive;
+    font-weight:bold;
+  }
+  .nav-item4{
+    font-size: 15px;
+    font-family: cursive;
+    font-weight:bold;  
+  }
+  .icecream-logo{
+    height:120px;
+    width:120px;
+  }
+  .background-container{
+    background-image:url("https://www.ktchnrebel.com/wp-content/uploads/2022/08/Various_coloured_ice_cream_shutterstock_1678666684.jpg");
+    background-size:cover;
+    border-image: fill 0 linear-gradient(#0003,#252525);
+    height:100vh;
+  }
+  
+  .home-section-head{
+    color: white;
+    font-family: "cursive";
+    font-size: 45px;
+    font-weight: 300;
+  }
+  .banner-caption {
+    color: #f5f7fa;
+    font-family: "monospace";
+    font-size: 24px;
+    font-weight: 300;
+    font-style:italic;
+  }
+  .custom-button {
+    color: white;
+    background-color:plum;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .custom-outline-button {
+    color: plum;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: plum;
+    border-radius: 8px;
+  }
+
+
+  
+  
